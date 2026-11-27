@@ -27,7 +27,7 @@ python yourself.py
 ## 📈 Visualization Results (可视化展示)
 
 ### 1. 年龄与基因表达量散点图
-![Scatter Plot](Ma_scatter.png)
+![Scatter Chart](Ma_scatter.png)
 
 ### 2. 不同人群身高对比柱状图
 ![Bar Chart](Ma_bar.png) 
