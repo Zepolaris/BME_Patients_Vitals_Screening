@@ -23,7 +23,9 @@ python yourself.py
 - 运用了 `marker='^'` (三角形)、`edgecolors='black'` (黑边) 自定义图表样式。
 - 通过 `plt.xticks` 和 `plt.yticks` 精确控制了坐标轴刻度，并保存为 300dpi 高清科研级图像。
 
-![Scatter Plot](My_first_beautiful_Plot.png)
+![Scatter Plot](Ma.scatter.png)
+![Bar plot](Ma.bar.png)
+![plot plot](Ma.plot.png)
 
 
 *这是我第一个小项目哦～ヽ(*≧ω≦)ﾉ*
