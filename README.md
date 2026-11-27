@@ -23,9 +23,15 @@ python yourself.py
 - 运用了 `marker='^'` (三角形)、`edgecolors='black'` (黑边) 自定义图表样式。
 - 通过 `plt.xticks` 和 `plt.yticks` 精确控制了坐标轴刻度，并保存为 300dpi 高清科研级图像。
 
-![Scatter Plot](Ma.scatter.png)
-![Bar plot](Ma.bar.png)
-![plot plot](Ma.plot.png)
 
+## 📈 Visualization Results (可视化展示)
 
+### 1. 年龄与基因表达量散点图
+![Scatter Chart](Ma_scatter.png)
+
+### 2. 不同人群身高对比柱状图
+![Bar Chart](Ma_bar.png) 
+
+### 3. 患者一周体温变化折线图
+![Line Chart](Ma_plot.png)
 *这是我第一个小项目哦～ヽ(*≧ω≦)ﾉ*
